@@ -1,0 +1,11 @@
+services:
+  init_subscriber:
+    class: Drupal\answers\EventSubscriber\InitSubscriber
+    tags:
+      -
+        name: event_subscriber
+  exit_subscriber:
+    class: Drupal\answers\EventSubscriber\ExitSubscriber
+    tags:
+      -
+        name: event_subscriber

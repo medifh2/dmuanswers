@@ -1,0 +1,6 @@
+answers.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    answers_question_lock_message:
+      type: string

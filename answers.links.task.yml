@@ -1,0 +1,5 @@
+answers.settings:
+  route_name: answers.settings
+  title: 'Settings'
+  parent_id: answers.admin
+  weitgt: 8

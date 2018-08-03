@@ -1,0 +1,13 @@
+name: Answers
+description: 'Question and answer service'
+dependencies:
+  - views
+  - entityreference
+package: Answers
+core: 8.x
+stylesheets:
+  all:
+    - css/answers.css
+scripts:
+  - js/answers.js
+type: module

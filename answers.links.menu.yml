@@ -1,0 +1,5 @@
+answers.settings:
+  route_name: answers.settings
+  title: 'Answers'
+  description: 'Configure how the question/answer service operates'
+  parent: system.admin_config_content

@@ -1,0 +1,7 @@
+answers.settings:
+  path: '/admin/config/content/answers'
+  defaults:
+    _title: 'Answers'
+    _form: '\Drupal\answers\Form\AnswersSettingsForm'
+  requirements:
+    _permission: 'administer content types'
